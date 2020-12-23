@@ -11,3 +11,5 @@
          }
          return 0;
 }
+x=Hello-world
+print(x)
